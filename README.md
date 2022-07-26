@@ -40,11 +40,7 @@ I'd like to highlight a few notable contributions and projects:
 </table>
 
 If you like my work, reach me on Twitter! Maybe we can collaborate on a project.
-```haskell
-connectWithMe :: String -> 
-connectWithMe _ _ = Left ""
-connectWithMe _ _ = Right 
-```
+
 
 ### My toolbox
 
