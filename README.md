@@ -36,7 +36,11 @@ I'd like to highlight a few notable contributions and projects:
   </tbody>
 </table>
 
-<b><i>If you like my work, reach me on Twitter! Maybe we can collaborate on a project.</i></b>
+---
+
+<i>If you like my work, reach me on Twitter! Maybe we can collaborate on a project.</i>
+
+---
 
 <table>
   <thead align="center">
