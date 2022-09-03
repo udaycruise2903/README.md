@@ -6,14 +6,11 @@
   <a href="https://www.linkedin.com/in/uday-kiran-n-ab1874157/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a Functional Programming enthusiast. I've been learning Haskell for the last 6 months. I'm currently working through [HPFFP](https://haskellbook.com/)
+I'm a Functional Programming enthusiast. I've been learning Haskell for the last 8 months. I'm currently working through Monads.
 
 ### My work
 
 I contribute to FP projects and build some myself:
-
-* [📚 Blog](https://kodimensional.dev/#blog) — articles on learning Functional programming.
-* [:octocat: OSS](https://github.com/udaycruise2903) — my projects
 
 I'd like to highlight a few notable contributions and projects:
 
@@ -21,26 +18,50 @@ I'd like to highlight a few notable contributions and projects:
   <thead align="center">
     <tr border: none;>
       <td><b>📦 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🔀 Forks</b></td>
-      <td><b>ℹ️ Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/fpindia/fpindia-site"><b>👩‍ FPIndia Static Site</b></a> — The new FP india static site built using Ema.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/fpindia/fpindia-site?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/fpindia/fpindia-site?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/fpindia/fpindia-site?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fpindia/fpindia-site?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/co-log-core"><b>co-log-core</b></a> — my documentation contribution to this package</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/co-log-polysemy"><b>co-log-polysemy</b></a> — my documentation contribution to this package.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/monads-maga"><b>Monads-maga</b></a> — My personal website using Haskell and Ema.</td>
+    </tr>
   </tbody>
 </table>
 
-If you like my work, reach me on Twitter! Maybe we can collaborate on a project.
+<b><i>If you like my work, reach me on Twitter! Maybe we can collaborate on a project.</i></b>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 My solutions to Courses</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/haskell-mooc"><b>Haskell-mooc</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/beginners-dilemma"><b>HPFFP</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/udaycruise2903/elm-0.19-workshop"><b>Elm 0.19 workshop</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/d4hslectures22"><b>Haskell beginners-2022</b></a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/cis194-sol"><b>CIS-194(UPenn Course)</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### My toolbox
 
