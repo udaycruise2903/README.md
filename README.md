@@ -25,13 +25,14 @@ I'd like to highlight a few notable contributions and projects:
       <td><a href="https://github.com/fpindia/fpindia-site"><b>👩‍ FPIndia Static Site</b></a> — The new FP india static site built using Ema.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/udaycruise2903/co-log-core"><b>co-log-core</b></a> — my documentation contribution to this package</td>
+      <td><a href="https://github.com/udaycruise2903/co-log-core"><b>co-log-core</b></a> — my documentation contribution</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/udaycruise2903/co-log-polysemy"><b>co-log-polysemy</b></a> — my documentation contribution to this package.</td>
+      <td><a href="https://github.com/udaycruise2903/co-log-polysemy"><b>co-log-polysemy</b></a> — my documentation contribution.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/udaycruise2903/monads-maga"><b>Monads-maga</b></a> — My personal website using Haskell and Ema.</td>
+            <td><a href="https://github.com/bvjsciencecentre/bvjsc-site"><b>BVJ Science Centre Static site</b></a> — Static site of Science Centre</td>
     </tr>
   </tbody>
 </table>
