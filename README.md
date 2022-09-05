@@ -32,8 +32,11 @@ I'd like to highlight a few notable contributions and projects:
     </tr>
     <tr>
       <td><a href="https://github.com/udaycruise2903/monads-maga"><b>Monads-maga</b></a> — My personal website using Haskell and Ema.</td>
-            <td><a href="https://github.com/bvjsciencecentre/bvjsc-site"><b>BVJ Science Centre Static site</b></a> — Static site of Science Centre</td>
+    <tr>
+            <td><a href="https://github.com/bvjsciencecentre/bvjsc-site"><b>BVJSC Static site</b></a> — Static site of BVJ Science Centre</td>
     </tr>
+
+    
   </tbody>
 </table>
 
