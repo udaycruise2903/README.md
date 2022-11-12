@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/uday-kiran-n-ab1874157/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a Functional Programming enthusiast. I've been learning Haskell for the last 8 months. I'm currently working on a [TUI application](https://github.com/udaycruise2903/rocketlaunchtui).
+I'm a Functional Programming enthusiast. I've been learning Haskell for the last 8 months. I'm currently working on a [TUI application](https://github.com/udaycruise2903/rocketlaunchtui). My interests are NLP, Backend development and Functional Programming.
 
 ### My work
 
