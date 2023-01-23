@@ -46,31 +46,6 @@ I'd like to highlight a few notable contributions and projects:
 
 ---
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📦 My solutions to Courses</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/udaycruise2903/haskell-mooc"><b>Haskell-mooc</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/udaycruise2903/beginners-dilemma"><b>HPFFP</b></a></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/udaycruise2903/elm-0.19-workshop"><b>Elm 0.19 workshop</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/udaycruise2903/d4hslectures22"><b>Haskell beginners-2022</b></a> </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/udaycruise2903/cis194-sol"><b>CIS-194(UPenn Course)</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
 ### My toolbox
 
 <p>
