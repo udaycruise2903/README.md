@@ -19,16 +19,17 @@ I'd like to highlight a few notable contributions and projects:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/fpindia/fpindia-site"><b>👩‍ FPIndia Static Site</b></a> — The new FP india static site built using Ema.</td>
+      <td><a href="https://github.com/udaycruise2903/treasurehunt-bvj"><b>Treasure hunt</b></a> — a QR code scavenger game that provides hints to the next location..</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/udaycruise2903/co-log-core"><b>co-log-core</b></a> — my documentation contribution</td>
+      <td><a href="https://github.com/udaycruise2903/quotes-traffic"><b>
+quotes-traffic</b></a> — A Microservice web application for user to post and search quotes related to ಬೆಂಗಳೂರು Traffic</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/udaycruise2903/co-log-polysemy"><b>co-log-polysemy</b></a> — my documentation contribution.</td>
+      <td><a href="https://github.com/udaycruise2903/cardbox"><b>cardbox</b></a> — A snippets web application built in Go.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/udaycruise2903/monads-maga"><b>Monads-maga</b></a> — My personal website using Haskell and Ema.</td>
+      <td><a href="https://github.com/udaycruise2903/tdd_in_go"><b>TDD in golang</b></a> — My practice code for Test-Driven Development in Go.</td>
     <tr>
             <td><a href="https://github.com/bvjsciencecentre/bvjsc-site"><b>BVJSC Static site</b></a> — Static site of BVJ Science Centre</td>
     </tr>
@@ -41,14 +42,3 @@ I'd like to highlight a few notable contributions and projects:
 <i>If you like my work, reach me on Twitter! Maybe we can collaborate on a project.</i>
 
 ---
-
-### My toolbox
-
-<p>
-  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
