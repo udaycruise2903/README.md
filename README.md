@@ -18,9 +18,7 @@ I'd like to highlight a few notable contributions and projects:
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/udaycruise2903/notthisssg"><b>Treasure hunt</b></a> — a QR code scavenger game that provides hints to the next location..</td>
-    </tr>
+
     <tr>
       <td><a href="https://github.com/udaycruise2903/treasurehunt-bvj"><b>Treasure hunt</b></a> — a QR code scavenger game that provides hints to the next location..</td>
     </tr>
