@@ -19,19 +19,29 @@ I'd like to highlight a few notable contributions and projects:
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/udaycruise2903/notthisssg"><b>Treasure hunt</b></a> — a QR code scavenger game that provides hints to the next location..</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/udaycruise2903/treasurehunt-bvj"><b>Treasure hunt</b></a> — a QR code scavenger game that provides hints to the next location..</td>
     </tr>
     <tr>
       <td><a href="https://github.com/udaycruise2903/quotes-traffic"><b>
-quotes-traffic</b></a> — A Microservice web application for user to post and search quotes related to ಬೆಂಗಳೂರು Traffic</td>
+quotes-traffic</b></a> — A Microservice web application for user to post and search quotes related to Bengaluru Traffic</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/udaycruise2903/cardbox"><b>cardbox</b></a> — A snippets web application built in Go.</td>
+      <td><a href="https://github.com/udaycruise2903/rewardo"><b>
+Rewardo</b></a> —  a django MVC website that rewards users points for downloading apps & submitting screenshots of it. </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/udaycruise2903/cardbox"><b>cardbox</b></a> — A code snippets web application built in Go.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/udaycruise2903/tdd_in_go"><b>TDD in golang</b></a> — My practice code for Test-Driven Development in Go.</td>
     <tr>
-            <td><a href="https://github.com/bvjsciencecentre/bvjsc-site"><b>BVJSC Static site</b></a> — Static site of BVJ Science Centre</td>
+      <td><a href="https://github.com/bvjsciencecentre/bvjsc-site"><b>BVJSC Static site</b></a> — Static site of BVJ Science Centre</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/bvjsciencecentre/khasi-ocr"><b>Khasi OCR</b></a> — khasi-ocr is a project to create OCR model for khasi language using tesseract-ocr by LSTM layer training.</td>
     </tr>
 
   </tbody>
